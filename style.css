@@ -129,8 +129,8 @@ body {
 .modal {
   display: none;
   position: relative;
-  width: 700px;
-  height: 550px;
+  width: 800px;
+  height: 600px;
   max-height: 90%;
   max-width: 90%;
   min-height: 380px;
